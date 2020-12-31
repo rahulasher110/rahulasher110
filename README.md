@@ -1,4 +1,7 @@
 ### Here is What I'm Working On! 👋
+ <a href="https://www.facebook.com/rahulasher110/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>  <br>
+
+![Matrix SVG](https://raw.githubusercontent.com/rahulasher110/rahulasher110/master/matrix.svg)
 
 <div align = "center">
     
