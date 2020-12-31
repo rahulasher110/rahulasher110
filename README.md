@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 🧰 Languages and Tools:
 <p align="left">
-<img src="download (1).png" alt="java" height="40" style="vertical-align:top; margin:4px"
+<img src="download (1).png" alt="java" height="40" style="vertical-align:top; margin:4px">
 <img src="download.png" alt="html" height="40" style="vertical-align:top; margin:4px">
 </p>
 
