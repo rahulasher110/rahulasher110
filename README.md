@@ -25,3 +25,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am Half Finnish
 
+## 🧰 Languages and Tools:
+<p align="left">
+<img src="download (1).png" alt="java" height="40" style="vertical-align:top; margin:4px"
+<img src="download.png" alt="html" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+![Rahul Kumar github stats](https://github-readme-stats.vercel.app/api?username=rahulasher110&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulasher110&layout=compact)](https://github.com/rahulasher110/github-readme-stats)
