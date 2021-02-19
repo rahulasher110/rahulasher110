@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 <!-- <img src="download.png" alt="html" height="40" style="vertical-align:top; margin:4px"> -->
 </p>
 
-![Rahul Kumar github stats](https://github-readme-stats.vercel.app/api?username=rahulasher110&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulasher110&layout=compact)](https://github.com/rahulasher110/github-readme-stats)
+![Rahul Kumar github stats](https://github-readme-stats.vercel.app/api?username=rahulasher110&show_icons=true&theme=radical)
