@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 ## 🧰 Languages and Tools:
 <p align="left">
 <img src="https://github.com/rahulasher110/rahulasher110/blob/main/python.png" alt="python" height="85" style="vertical-align:top; margin:4px">
-<!-- <img src="logo-2582747_1280.webp" alt="css" height="40" style="vertical-align:top; margin:4px"> -->
+<img src="logo-2582747_1280.webp" alt="css" height="40" style="vertical-align:top; margin:4px">
 <!-- <img src="png-clipart-javascript-open-logo-number-js-angle-text-thumbnail.png" alt="javaScript" height="40" style="vertical-align:top; margin:4px"> -->
 <img src="download (1).png" alt="java" height="40" style="vertical-align:top; margin:4px">
-<!-- <img src="download.png" alt="html" height="40" style="vertical-align:top; margin:4px"> -->
+<img src="download.png" alt="html" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulasher110&layout=compact)](https://github.com/rahulasher110/github-readme-stats)
