@@ -1,5 +1,5 @@
 ### Here is What I'm Working On! 👋
- <a href="https://www.facebook.com/rahulasher110/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>  <br>
+
 
 ![Matrix SVG](https://raw.githubusercontent.com/rahulasher110/rahulasher110/master/matrix.svg)
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate ... on FrontEnd 
 - 🤔 I’m looking for help ... with FrontEnd
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: [Facebook](https://www.facebook.com/rahulasher110)
+- 📫 How to reach me: [Gmail](https://www.gmail.com/rahulasher0@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am Half Finnish
 
