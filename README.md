@@ -16,10 +16,9 @@ or <a href="mailto:rahulasher110@gmail.com"><b>email</b></a> me
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a Student at JAMIA MILLIA ISLAMIA
-- 🌱 I’m currently learning ... New Skills and Technologies Like WEB , Language , DS & ALGO and so on.
-- 👯 I’m looking to collaborate ... on FrontEnd 
-- 🤔 I’m looking for help ... with FrontEnd
+- 🔭 I studied MCA from JAMIA MILLIA ISLAMIA
+- 🌱 I’m currently working as a Flutter Developer in a Fintech Startup.
+- 👯 I’m looking to collaborate on any tech.
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: [Gmail](https://www.gmail.com/rahulasher0@gmail.com)
 - 😄 Pronouns: He/Him
