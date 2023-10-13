@@ -16,8 +16,8 @@ or <a href="mailto:rahulasher110@gmail.com"><b>email</b></a> me
 
 Here are some ideas to get you started:
 
-- 🔭 I studied MCA from JAMIA MILLIA ISLAMIA
-- 🌱 I’m currently working as a Flutter Developer in a Fintech Startup.
+- 🔭 I completed my MCA from JAMIA MILLIA ISLAMIA
+- 🌱 I’m currently working as a Flutter Developer in a Fintech World.
 - 👯 I’m looking to collaborate on any tech.
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: [Gmail](https://www.gmail.com/rahulasher0@gmail.com)
@@ -26,11 +26,7 @@ Here are some ideas to get you started:
 
 ## 🧰 Languages and Tools:
 <p align="left">
-<img src="https://github.com/rahulasher110/rahulasher110/blob/main/python.png" alt="python" height="85" style="vertical-align:top; margin:4px">
-<img src="logo-2582747_1280.webp" alt="css" height="40" style="vertical-align:top; margin:4px">
-<!-- <img src="png-clipart-javascript-open-logo-number-js-angle-text-thumbnail.png" alt="javaScript" height="40" style="vertical-align:top; margin:4px"> -->
-<img src="download (1).png" alt="java" height="40" style="vertical-align:top; margin:4px">
-<img src="download.png" alt="html" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="python" height="85" style="vertical-align:top; margin:4px">
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulasher110&layout=compact)](https://github.com/rahulasher110/github-readme-stats)
